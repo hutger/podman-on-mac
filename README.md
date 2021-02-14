@@ -1,7 +1,5 @@
 # Running Podman on Mac Terminal
 
-###  
-
 ### How to run Podman commands directly from macOS terminal
 
 I've found some articles explaining how to run Podman on top macOS [[1\]](https://developers.redhat.com/blog/2020/02/12/podman-for-macos-sort-of/), but the adopted approach was using *podman-machine*, which is a wrapper for an instance VM running on top of Virtulbox.
